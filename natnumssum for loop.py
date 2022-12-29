@@ -5,6 +5,7 @@ else:
     print("-"*50)
     print("\t nat nums sum ,squares,cubes")
     print("-"*50)
+    print("hello lavi")
     s,ss,cs=0,0,0
     for i in range(1,n+1):
         print("\t{}\t\t{}\t{}".format(i,i**2,i**3))
